@@ -1,7 +1,7 @@
 {
-  "name": "INCONNU-XD",
+  "name": "krugar-XD",
   "version": "10.8.1",
-  "description": "INCONNU BOY TECH",
+  "description": "krugar TECH",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "stop": "pm2 stop  INCONNU-XD",
     "restart": "pm2 restart  INCONNU-XD"
   },
-  "keywords": ["INCONNU-BOY", "whatsapp-bot", "whatsapp md bot"],
+  "keywords": ["krugar", "whatsapp-bot", "whatsapp md bot"],
   "author": " INCONNU BOY",
   "license": "ISC",
   "dependencies": {
