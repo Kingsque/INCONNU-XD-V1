@@ -1,6 +1,6 @@
 {
-  "name": "INCONNU-XD",
-  "description": "🚀 INCONNU XD WhatsApp MultiDevice Bot – BY INCONNU BOY💡✨",
+  "name": "KRUGAR-XD",
+  "description": "🚀 KRUGAR XD WhatsApp MultiDevice Bot – BY krugar BOY💡✨",
   "logo": "https://files.catbox.moe/230q0c.jpg",
   "keywords": ["INCONNU BOY TECH", "whatsapp-bot", "whatsapp-md-bot"],
   "repository": "https://github.com/INCONNNU-BOY/INCONNU-XD-V1",
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "INCONNU BOY"
+      "value": "krugar BOY"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "554488138425"
+      "value": "26771256815,26771936201"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
@@ -40,12 +40,12 @@
     "AUTO_RECORDING": {
       "description": "Enable bot to show recording status (true/false)",
       "required": false,
-      "value": "false"
+      "value":false"
     },
     "ALWAYS_ONLINE": {
       "description": "Keep bot always online (true/false)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_REACT": {
       "description": "Enable bot to auto-react to messages (true/false)",
