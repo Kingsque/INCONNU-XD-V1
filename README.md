@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">✨ THE NEXT GEN WHATSAPP BOT ✨<br>BY INCONNU BOY</h1>
+<h1 align="center">✨ THE NEXT GEN WHATSAPP BOT ✨<br>BY krugar BOY</h1>
 
 ---
 
